@@ -1,0 +1,54 @@
+h1{
+    color: red;
+
+}
+
+/*
+p {
+    color: #FF3366;
+    background-color: #00FF00;
+}
+    */
+
+.specialp {
+    color:blue;
+    background-color: #FF0000;
+}
+
+#specialid {
+    color: green;
+    background-color: #ffff3359;
+}
+
+.orangebg {
+    background-color: orange;
+}
+
+.spanstyle {
+    color: blue;
+}
+
+a {
+    color: #FF0000;
+    text-decoration: none;
+}
+
+a:link {
+    color: #00FF00;
+}
+
+a:visited {
+    color: #0000FF;
+}
+
+a:active {
+    color: #00FFFF;
+}
+
+a:hover {
+    color: #FF00FF;
+    text-decoration: underline;
+}
+footer {
+    background-color: green;
+}
