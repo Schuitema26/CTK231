@@ -1,0 +1,48 @@
+p {
+    color: white;
+    background-color: #00FF00;
+}
+h1 {
+    color: dimgray;
+    background-color: orange;
+}
+
+h2 {
+    color: blue;
+    background-color: black;
+}
+
+h3 {
+    color: purple;
+    background-color: yellow;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+    a:link {
+        color: #00FF00;
+    }
+
+    a:visited {
+        color: green;
+    }
+
+    a:active {
+        color: #00FFFF;
+    }
+
+    a:hover {
+        color: yellow;
+        text-decoration: underline;
+    }
+
+.greenbg {
+    background-color: #00FF00;
+}
+
+.spanblue {
+    color: blue;
+}
